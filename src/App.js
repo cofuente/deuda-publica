@@ -15,7 +15,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Fuente.
+            Fuente
           </a>
         </header>
       </div>
