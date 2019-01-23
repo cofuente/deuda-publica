@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/deuda-publica/precache-manifest.0c9d9cebaac330e70c19fc3fbdde4a02.js"
+  "/deuda-publica/precache-manifest.250f76d406a077c030f24644cdfc4bd5.js"
 );
 
 workbox.clientsClaim();
