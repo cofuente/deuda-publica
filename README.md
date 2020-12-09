@@ -8,7 +8,7 @@ This repo runs on node. To run it locally, copy/paste the following commands int
 
 ```
 git clone https://github.com/cofuente/deuda-publica.git
-cd cofue
+cd deuda-publica
 npm i
 npm run start
 ```
